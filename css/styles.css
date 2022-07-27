@@ -11462,7 +11462,9 @@ section.resume-section .resume-section-content {
 }
 .subhead-text {
   font-size: smaller;
-  font-weight: bold;
+  font-weight: 500;
+  font-style: italic;
+  color: black;
 }
 
 .div-buttons {
@@ -11482,6 +11484,7 @@ section.resume-section .resume-section-content {
 
 li {
   line-height: 30px;
+  font-size: 18px;
 }
 
 p.lead.mb-5 {
